@@ -2,7 +2,8 @@
 
 My name is Sergio and I'm an aspiring web developer based in Las Vegas, NV.
 This project is going to be an update of my personal website using Ruby on Rails,
-and will also my personal blog.
+and will also be used as my personal blog. I'm really excited about learning
+web development and soon hope to get a position as a junior web developer.
 
 # Project Goals
 * I hope to learn more about creating full stack web applications with Ruby and
@@ -14,7 +15,7 @@ Rails
 
 * UI Design
 
-# Technologies Used
+# Technologies/Skills Used
 
 * HTML, CSS, JS
 
@@ -25,6 +26,8 @@ Rails
 * Devise gem
 
 * Wordpress CMS
+
+* Git / Github
 
 
 
